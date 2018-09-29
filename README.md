@@ -5,10 +5,6 @@
 |1|2018.09.29|v1.0|席梦洁||
 
 
-[toc]
-
-
-
 ## 一 需求目的
 
 
@@ -46,16 +42,19 @@
 ## 四 方案细节图
 
 1. 
+[1](https://github.com/Brynn-x/prd/blob/master/img/1.png)
 
 2.
 上传到后端，后端处理完成返回成功后，拉取数据
 
+[1](https://github.com/Brynn-x/prd/blob/master/img/2.png)
 3.
 新增订单表单，验证相关产品未给定
 
+[1](https://github.com/Brynn-x/prd/blob/master/img/3.png)
 4. 
 通过用户手机号，向后端请求分页数据，前端回显
-
+[1](https://github.com/Brynn-x/prd/blob/master/img/4.png)
 
 ## 五、项目安排
 
